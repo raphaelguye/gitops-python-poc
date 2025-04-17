@@ -11,7 +11,7 @@ spec:
     metadata:
       labels:
         app: python-app
-        change-trigger: "v4"
+        change-trigger: "v5"
     spec:
       containers:
         - name: python-app
